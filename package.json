@@ -1,5 +1,5 @@
 {
-  "name": "hello-app",
+  "name": "standard-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
